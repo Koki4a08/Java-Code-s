@@ -1,3 +1,0 @@
-EN: Requires java download!
-
-BG: Изисква изтеглена java !
